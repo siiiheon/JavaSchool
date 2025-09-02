@@ -1,6 +1,6 @@
 package sec02.exam07;
 
-public class ㅈWhlieSumFrom1To100Example {
+public class WhlieSumFrom1To100Example {
 
 	public static void main(String[] args) {
 		int sum = 0;
